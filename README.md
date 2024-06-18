@@ -39,3 +39,11 @@ KPI des prêts douteux :
 4.	Montant total reçu des prêts irrécouvrables : suivi du montant total reçu des emprunteurs pour les « prêts irrécouvrables », qui comprend tous les paiements effectués sur les prêts dont le statut de prêt est « facturé ».
 Vue de la grille de statut du prêt
 Afin d'obtenir un aperçu complet de nos opérations de prêt et de surveiller la performance des prêts, nous visons à créer un rapport en forme de grille classé par « Statut du prêt ». Ce rapport constituera un outil précieux pour analyser et comprendre les indicateurs clés associés aux différents statuts de prêt. En fournissant des informations sur des indicateurs tels que « Total des demandes de prêt », « Montant total financé », « Montant total reçu », « Montant financé depuis le début du mois (MTD), » « Montant MTD reçu », « Taux d'intérêt moyen », et « Ratio dette/revenu moyen (DTI) », cette vue en grille nous permettra de prendre des décisions fondées sur des données et d'évaluer la santé de notre portefeuille de prêts.
+
+## Outils utilisés ⚡
+
+Pour le projet d'analyse de données des demande de prets bancaire, les outils  suivants ont été utilisés :
+
+- Excel: Pour l'ensemble du projet 
+- Pivot table : Analyser les relations entre les colonnes et faire des calcules pour les    indicateurs de performances.
+- Pivot chart: pour la visualisation des données.
